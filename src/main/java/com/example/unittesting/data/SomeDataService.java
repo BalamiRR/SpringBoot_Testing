@@ -4,4 +4,9 @@ public interface SomeDataService {
 
 	int[] retrieveAllData();
 
+	String[] wordsRetrieve();
+	
+	String allLetters();
+	
+	int retrieveAll();
 }
